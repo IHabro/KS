@@ -3,6 +3,9 @@
 Jezkovy eshopy zde:
 https://swi.cs.vsb.cz/jezek/student-information/tsk.html
 
+Dobre vedet o McCabe complexity:
+https://www.guru99.com/cyclomatic-complexity.html
+
 CV1 - zaklady psani testu v JAVA frameworku
 
 CV2 - to same pro weby
