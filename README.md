@@ -12,3 +12,5 @@ CV2 - to same pro weby
 
 CV3 - doplneni infa?
 
+HW - Unit test pro netrivialni funkci a Něco na webu se zaměřením na krajní hodnoty vstupních hodnot (čísla zkoušet záporná, 0 a kladná + velikosti aka. -20000, -0,001, 0, 0,001, 20000)
+
