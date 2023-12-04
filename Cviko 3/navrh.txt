@@ -1,0 +1,7 @@
+Cyber Security pro Banku
+
+Zero trust Model vystaveny na verejne hostovanym API
+Maximum pingu / Pocet chybnych hesel
+3 systemy soucast kolecka backup
+Load balancing
+
